@@ -4,7 +4,7 @@ body{
 }
 
 h1{
-    font-size: 20pt;
+    font-size: 18pt;
     color: #80AB39;
     text-align: center;
    
@@ -19,7 +19,7 @@ h1{
 }
 
 img{
-    border:3pt solid wheat;
+    border:3pt solid #80AB39;
     border-radius: 130px;
     top: 100px; left: 100px; width: 100px; height: 100px;
 }
